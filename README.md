@@ -1,4 +1,5 @@
 # devops-aula02
 Jason Statham
-Bruce Willis
+Marcia Imperator
 Paola Oliveira
+Jake Chan
